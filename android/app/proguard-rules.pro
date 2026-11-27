@@ -1,0 +1,3 @@
+-keep class com.sona.assistant.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**

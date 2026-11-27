@@ -1,0 +1,6 @@
+{
+  "name": "SONA 2.0 — Romantic AI Companion",
+  "description": "Multilingual romantic and caring AI companion assistant with customizable Boss name and nicknames, five love modes, expressive voice styles, and voice-driven hotspot control.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
